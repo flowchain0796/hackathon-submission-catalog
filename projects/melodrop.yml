@@ -1,0 +1,12 @@
+name: MeloDrop  # required
+tagline: Project Tagline # optional
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-MeloDrop  # required
+sourceCodeUrl: https://github.com/flowchain0796/melodrop # required
+liveDemoUrl: https://demo.site/  # optional
+social: # optional
+  x: manjeet0796
+  github: manjeetsharma0796
+team: # optional
+  -
+    name: _
+    github: _
