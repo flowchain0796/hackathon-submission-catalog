@@ -1,0 +1,12 @@
+name: CoinFlip  # required
+tagline: Project Tagline # optional
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-CoinFlip  # required
+sourceCodeUrl: https://github.com/flowchain0796/coinflip # required
+liveDemoUrl: https://demo.site/  # optional
+social: # optional
+  x: manjeet0796
+  github: manjeetsharma0796
+team: # optional
+  -
+    name: _
+    github: _
