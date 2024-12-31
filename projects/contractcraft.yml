@@ -1,0 +1,12 @@
+name: ContractCraft  # required
+tagline: Project Tagline # optional
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-Contract-Craft  # required
+sourceCodeUrl: https://github.com/flowchain0796/Contract-Craft # required
+liveDemoUrl: https://demo.site/  # optional
+social: # optional
+  x: handle
+  github: name
+team: # optional
+  -
+    name: prithwish
+    github: prithwish122
